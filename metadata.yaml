@@ -1,0 +1,33 @@
+_repo: The-Interpretation-of-Dreams_66048
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Brill, A. A. (Abraham Arden)
+    alias: Brill, Abraham Arden
+    birthdate: 1874
+    deathdate: 1948
+    gutenberg_agent_id: '5774'
+    url: http://www.gutenberg.org/2009/agents/5774
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: 1939
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Sigmund_Freud
+    - https://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_issued: '2021-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '66048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Interpretation of Dreams
+url: http://www.gutenberg.org/ebooks/66048
